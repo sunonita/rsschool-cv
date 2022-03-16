@@ -7,3 +7,14 @@
 
 ## About:
 *I'm ready to become a professional in programming, but it takes time. It's good that I have a lot of time)*
+
+## Skills:
+* *HTML&CSS*
+* *Photoshop*
+* *Git*
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
