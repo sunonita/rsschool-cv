@@ -1,0 +1,127 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(54, 52, 56);
+    width: 1200px;
+    max-width: 1000px;
+    height: 1200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+aside {
+    float: left;
+    width: 250px;
+    height: 1200px;
+    background-color: rgb(52, 47, 53);
+}
+
+main{
+       background-color: rgb(255, 255, 255);
+       width: 1000px;
+       height: 1200px;
+}
+
+#foto {
+    width: 100%;
+    
+}
+
+.name {
+    border: rgb(161, 86, 161);
+    border-style: solid;
+    border-width: 3px;
+    padding: 50px;
+    position: relative;
+    top: 100px;
+    left: -50px;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pink {
+    color: rgb(161, 86, 161);
+    text-decoration: ivory;
+    margin-top: 60px;
+    font-size: 1.1em;
+}
+#pink_border_aside{
+    border: rgb(161, 86, 161);
+    border-style: solid;
+    border-width: 3px;
+    padding: 8px 15px 8px 15px;
+    font-size: 0,9em;
+}
+.position{
+    border: rgb(161, 86, 161);
+    background-color: rgb(52, 47, 53);
+    color: rgb(161, 86, 161);
+    border-style: solid;
+    border-width: 3px;
+    padding: 30px;
+    position: relative;
+    top: 180px;
+    left: 50px;
+    font-size: 1.4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+progress {
+    background-color: rgb(161, 86, 161);
+}
+.Github{
+    border: rgb(161, 86, 161);
+    border-style: solid;
+    border-width: 3px;
+    padding: 10px;
+    position: relative;
+    left: 450px;
+    font-size: 1em;
+}
+#about{
+    background-color: gray;
+ 
+    height: 100px;
+    position: absolute;
+    top: 350px;
+    left: 720px;
+    width: 700px;
+    padding-left: 20px;
+}
+#experience{
+    background-color: rgb(52, 47, 53);
+    height: 130px;
+    position: absolute;
+    top: 500px;
+    left: 720px;
+    width: 700px;
+    color: rgb(161, 86, 161);
+    
+}
+
+#education{
+    background-color: rgb(52, 47, 53);
+    height: 130px;
+    position: absolute;
+    top: 670px;
+    left: 720px;
+    width: 700px;
+    color: rgb(161, 86, 161);
+}
+#code{
+    background-color: rgb(52, 47, 53);
+    height: 130px;
+    position: absolute;
+    top: 850px;
+    left: 720px;
+    width: 700px;
+    color: rgb(161, 86, 161);
+}
+#english{
+    background-color: rgb(52, 47, 53);
+    height: 100px;
+    position: absolute;
+    top: 1000px;
+    left: 720px;
+    width: 700px;
+    padding-left: 20px;
+    color: rgb(161, 86, 161);
+}
