@@ -1,1 +1,1 @@
-# https://sunonita.github.io/rsschool-cv/cv
+# https://sunonita.github.io/rsschool-cv/
